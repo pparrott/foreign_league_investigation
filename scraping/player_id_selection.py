@@ -1,3 +1,4 @@
+#!/usr/bin/env
 # Getting all player data from KBO and NPB teams who have played in the MLB
 # The first step involves getting the links to every team's lineup for every season
 
